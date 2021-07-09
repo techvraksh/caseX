@@ -1,0 +1,23 @@
+{
+  "name": "change-casex",
+  "version": "1.0.0",
+  "description": "convert case of string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techvraksh/caseX.git"
+  },
+  "keywords": [
+    "case",
+    "javascript"
+  ],
+  "author": "srashtisj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techvraksh/caseX/issues"
+  },
+  "homepage": "https://github.com/techvraksh/caseX#readme"
+}
