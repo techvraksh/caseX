@@ -1,5 +1,5 @@
 {
-  "name": "change-casex",
+  "name": "@techvraksh/casex",
   "version": "1.0.0",
   "description": "convert case of string",
   "main": "index.js",
